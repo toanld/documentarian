@@ -1,8 +1,9 @@
 {
   "name": "toanld/documentarian",
-  "description": "",
+  "license": "MIT",
+  "description": "documentarian",
   "keywords": [],
-  "license": "Apache 2",
+  "homepage": "http://github.com/mpociot/laravel-apidoc-generator",
   "authors": [
     {
       "name": "Marcel Pociot",
