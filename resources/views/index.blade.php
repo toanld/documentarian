@@ -5,7 +5,6 @@
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <title>{{$page['title']}}</title>
-
     <link rel="stylesheet" href="docs/css/style.css" />
     <script src="docs/js/all.js"></script>
 
